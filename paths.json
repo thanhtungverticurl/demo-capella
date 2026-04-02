@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/demo-capella/:/",
+    "/content/demo-capella/configuration:/.helix/config.json",
+    "/content/demo-capella/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/demo-capella/"
   ]
 }
